@@ -7,12 +7,12 @@ Compatible: FlowStacks Beta Release
 
 Repository Information
 ------
-This FlowStacks Repository is for hosting Jobs (found in src) that are wrapped under a FlowStacks REST API Endpoint on deployment. Using the FlowStacks REST API invokes Jobs to accomplish work on our platform for your applications or systems which could be as simple as creating, retrieving, updating, deleting databases records or advanced general purpose processing.  This Repository will be maintained as a starting point for all new users to the FlowStacks platform to build derived value from creating Jobs that can be shared between GitHub users having similar use cases and needs. This includes building a shared database schema that is used by the Jobs as a data solution for these common, shared Jobs. Consider account management, many users need account management and building out these Jobs can be shared across markets, industries and users...as well as anything else that can be put into a Job like inventory, marketing, advertising, ecomm, subscription, and many more.
+This FlowStacks Repository is for hosting Jobs (found in src) that are wrapped under a FlowStacks REST API Endpoint on deployment. Using the FlowStacks REST API invokes Jobs to accomplish work on our platform for your applications or systems which could be as simple as creating, retrieving, updating, deleting databases records or advanced general purpose processing. This Repository will be maintained as a starting point for all new users to the FlowStacks platform to build derived value from creating Jobs that can be shared between GitHub users having similar use cases and needs. This includes building a shared database schema that is used by the Jobs as a data solution for these common, shared Jobs. Consider account management, many users need account management and building out these Jobs can be shared across markets, industries and users...as well as anything else that can be put into a Job like inventory, marketing, advertising, ecomm, subscription, and many more.
 
 
 How to Use the FlowStacks Application Starter Repository
 ------
-To Start developing Jobs just Fork this Repo and deploy it with our Developer Dashboard: https://flowstacks.com/dashboard/
+To start developing Jobs just Fork this repo and deploy it with our Developer Dashboard: https://flowstacks.com/dashboard/
 
 
 Additional Starting Information
