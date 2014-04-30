@@ -1,0 +1,24 @@
+{
+    "Module Index"  : 9,
+    "Module Inputs" : {
+        "DB Conn Str"   : "mysql://<REPLACE WITH YOUR MYSQL USER>:<REPLACE WITH YOUR MYSQL PASSWORD>@<REPLACE WITH YOUR MYSQL HOST>:<REPLACE WITH YOUR MYSQL PORT>/<REPLACE WITH YOUR MYSQL DATABASE NAME>",
+        "Query Type"    : "Get By User Name",
+        "User Name"     : "user12345"
+    },
+    "Expected Module Outputs" : {
+        "Status"        : "SUCCESS",
+        "Records"       : [
+                            {
+                                "First Name"        : "John",
+                                "Last Name"         : "Smith",
+                                "User Name"         : "user12345",
+                                "Password"          : "Password",
+                                "Email"             : "notarealemailaddress@gmail.com",
+                                "Creation Date"     : "<Dynamic Value>",
+                                "User Status ID"    : 1
+                            }
+        ],
+        "Error"         : ""
+    }
+}
+
