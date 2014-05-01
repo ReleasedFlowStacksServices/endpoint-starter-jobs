@@ -21,7 +21,9 @@ class RA_DBF_GetUserStatus(FSWebTierBaseWorkItem):
 
             # INPUTS:
             self.m_db_app_name                  = str(json_data["DB To Use"])
+            self.m_get_id                       = str(json_data["DB Record ID"])
             self.m_get_status                   = str(json_data["User Status"])
+            self.m_query_type                   = str(json_data["Query Type"])
 
             # OUTPUTS:
             self.m_results["Status"]            = "FAILED"

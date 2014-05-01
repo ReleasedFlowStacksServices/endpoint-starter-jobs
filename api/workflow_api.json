@@ -323,7 +323,10 @@
                 "Class Name"    : "RA_DBF_GetUserStatus",
                 "Inputs"        : {
                                     "DB To Use"         : "String",
-                                    "User Status"       : "String"
+                                    "DB Record ID"      : "String",
+                                    "User Status"       : "String",
+                                    "Query Type"        : "String"
+
                 },
                 "Outputs"       : {
                                     "Status"            : "String",
